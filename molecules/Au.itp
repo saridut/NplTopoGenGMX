@@ -1,0 +1,10 @@
+; Heinz, H., Vaia, R. A., Farmer, B. L. & Naik, R. R. Accurate simulation of
+; surfaces and interfaces of face-centered cubic metals using 12-6 and 9-6
+; Lennard-Jones potentials. Journal of Physical Chemistry C 112, 17281 (2008).
+;
+[ moleculetype ]
+; Name          nrexcl
+Au                0
+[ atoms ]
+;   nr     type       resnr  residue  atom   cgnr     charge       mass  
+     1   opls_8001        1       Au    Au      1     0.0000    196.967

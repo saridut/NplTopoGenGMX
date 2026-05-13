@@ -1,0 +1,9 @@
+; Rabani, E. An interatomic pair potential for cadmium selenide. Journal of
+; Chemical Physics 116, 258 (2002).
+;
+[ moleculetype ]
+; Name          nrexcl
+Se                0
+[ atoms ]
+;   nr     type       resnr  residue  atom   cgnr     charge        mass
+     1   opls_8003        1       Se    Se      1    -1.1800     78.9710
